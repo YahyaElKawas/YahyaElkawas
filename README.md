@@ -21,8 +21,8 @@
 
 <a href="https://www.linkedin.com/in/yahia-al-kawas-5855701a6" target="_blank"><img src="https://img.shields.io/badge/-Yahia%20Alkawas-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-### 🛠 &nbsp;Tech Stack
-![OOP];
+### 🛠 &nbsp;Skills
+![OOP](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.scaler.com%2Ftopics%2Fwhat-is-object-oriented-programming-oop%2F&psig=AOvVaw0U-cH0IREkBVjheK1LgUWu&ust=1695596541281000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiAtr7rwYEDFQAAAAAdAAAAABAE)&nbsp;
 ![Data structures];
 ![Algorithms];
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
