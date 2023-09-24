@@ -22,10 +22,9 @@
 <a href="https://www.linkedin.com/in/yahia-al-kawas-5855701a6" target="_blank"><img src="https://img.shields.io/badge/-Yahia%20Alkawas-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Skills
-OOP
-Data structures
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP)&nbsp;
+![Data structures](https://img.shields.io/badge/-Data%20structures-05122A?style=flat&logo=Data structures)&nbsp;
 Algorithms
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
