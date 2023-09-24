@@ -23,8 +23,8 @@
 
 ### 🛠 &nbsp;Skills
 ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP)&nbsp;
-![Data structures](https://img.shields.io/badge/-Data%20structures-05122A?style=flat&logo=Data structures)&nbsp;
-Algorithms
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=flat&logo=data-structures)&nbsp;
+![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=Algorithms)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
